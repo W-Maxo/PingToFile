@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "PingER": {
+      "commandName": "Project",
+      "commandLineArgs": "--a google.com",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55402;http://localhost:55403"
+    }
+  }
+}
